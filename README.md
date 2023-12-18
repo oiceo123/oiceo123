@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pisut Rungphutthikul</h1>
 <h3 align="center">developer from Thailand</h3>
 
+- 🔭 I’m currently working on [Kawaii Shop UI](https://github.com/oiceo123/Kawaii-Shop-UI)
+
 - 🌱 I’m currently learning **React, Go**
+
+- 📫 How to reach me **rptk.pisut@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
